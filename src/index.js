@@ -19,4 +19,4 @@ app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
 
-console.log("v1.1")
+console.log("v1.2")
